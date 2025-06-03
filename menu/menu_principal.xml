@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="MODELS" app:showAsAction="always" />
+    <item android:title="HETERO" app:showAsAction="never" />
+    <item android:title="GAY" android:id="@+id/gay" app:showAsAction="never" />
+    <item android:title="SINGLE MOTHERS" android:id="@+id/close" app:showAsAction="never" />
+    <item android:title="SHEMALE" app:showAsAction="never" />
+    <item android:title="WEIRD..." app:showAsAction="never" />
+
+</menu>
